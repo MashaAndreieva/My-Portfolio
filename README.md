@@ -1,5 +1,5 @@
 # About me 
- My name is Maria, and I'm 24 years old :<p>&#128516;</p> . I was born and raised in Ukraine :ukraine: . I'm currently a second-year Master's student of Public Policy at Carnegie Mellon University. Before that, I earned my undergraduate degree from a business school in France :school: . After graduating, I moved to London to work in a fintech company for about two years. This summer, I completed an internship as a Tech Policy Intern at a nonpartisan advocacy group in Washington D.C. 
+ My name is Maria, and I'm 24 years old. I was born and raised in Ukraine :ukraine: . I'm currently a second-year Master's student of Public Policy at Carnegie Mellon University. Before that, I earned my undergraduate degree from a business school in France :school: . After graduating, I moved to London to work in a fintech company for about two years. This summer, I completed an internship as a Tech Policy Intern at a nonpartisan advocacy group in Washington D.C. 
  
  Here are some of the things I was doing as part of my internship:
  * Monitored privacy-related legislation and regulation, developed policy recommendations.
