@@ -1,3 +1,4 @@
+| [home page]([https://cmustudent.github.io/tswd-portfolio-templates/](https://mashaandreieva.github.io/tswd-portfolio-templates/)) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 # About me 
  My name is Maria, and I'm 24 years old. I was born and raised in Ukraine :ukraine: . I'm currently a second-year Master's student of Public Policy at Carnegie Mellon University. Before that, I earned my undergraduate degree from a business school in France :school: . After graduating, I moved to London to work in a fintech company for about two years. This summer, I completed an internship as a Tech Policy Intern at a nonpartisan advocacy group in Washington D.C. 
  
