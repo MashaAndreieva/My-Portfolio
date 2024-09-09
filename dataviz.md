@@ -1,6 +1,6 @@
 ![Government Debt Chart](OECD.png)
 
-<div class='tableauPlaceholder' id='viz1725918204464' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1725918652690' style='position: relative'>
   <noscript>
     <a href='#'>
       <img alt='OECD - Debt-to-GDP Ratio by Country Source: https://www.oecd.org/en/data/indicators/general-government-debt.html' 
@@ -26,7 +26,7 @@
   </object>
 </div>
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1725918204464');
+  var divElement = document.getElementById('viz1725918652690');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width='100%';
   vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
@@ -34,6 +34,7 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 
 
