@@ -36,5 +36,5 @@ I'm currently seeking positions at consulting firms that specialize in providing
   + Final project
 
 # Portfolio
-- [Government Debt Visualization] (dataviz.md)
+- [Government Debt Visualization](dataviz.md)
 
