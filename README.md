@@ -34,3 +34,7 @@ I'm currently seeking positions at consulting firms that specialize in providing
     * Part III: Final deliverable and presentation
   + Data visualization workshops
   + Final project
+
+# Portfolio
+- [Government Debt Visualization] (dataviz.md)
+
