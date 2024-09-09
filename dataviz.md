@@ -1,16 +1,14 @@
 ![Government Debt Chart](OECD.png)
 
 <div class='tableauPlaceholder' id='viz1725916414346' style='position: relative'>
-  <noscript>
-    <a href='#'>
-      <img alt='OECD - Debt-to-GDP Ratio by CountrySource: https://www.oecd.org/en/data/indicators/general-government-debt.html' 
-           src='https://public.tableau.com/static/images/Bo/Book1_17259162605880/OECD-Debt-to-GDPRatiobyCountry/1_rss.png' 
-           style='border: none' />
-    </a>
-  </noscript>
+  <noscript><a href='#'>
+    <img alt='OECD - Debt-to-GDP Ratio by Country Source: https://www.oecd.org/en/data/indicators/general-government-debt.html' 
+    src='https://public.tableau.com/static/images/Bo/Book1_17259162605880/OECD-Debt-to-GDPRatiobyCountry/1_rss.png' 
+    style='border: none' />
+  </a></noscript>
   <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-    <param name='embed_code_version' value='3' /> 
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
     <param name='site_root' value='' />
     <param name='name' value='Book1_17259162605880/OECD-Debt-to-GDPRatiobyCountry' />
     <param name='tabs' value='no' />
@@ -25,7 +23,6 @@
     <param name='filter' value='publish=yes' />
   </object>
 </div>
-
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1725916414346');
   var vizElement = divElement.getElementsByTagName('object')[0];
@@ -35,3 +32,4 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
