@@ -1,19 +1,8 @@
 | [home page](https://mashaandreieva.github.io/My-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me 
- My name is Maria, and I'm 24 years old. I was born and raised in Ukraine :ukraine: . I'm currently a second-year Master's student of Public Policy at Carnegie Mellon University. Before that, I earned my undergraduate degree from a business school in France :school: . After graduating, I moved to London to work in a fintech company for about two years. This summer, I completed an internship as a Tech Policy Intern at a nonpartisan advocacy group in Washington D.C. 
- 
- Here are some of the things I was doing as part of my internship:
- * Monitored privacy-related legislation and regulation, developed policy recommendations.
- * Led a cross-chapter initiative to strengthen local media landscape in the US.
- * Drafted advocacy documents supporting public interest positions on privacy-related issues.
+ My name is Masha. I'm currently a second-year Master's student of Public Policy at Carnegie Mellon University. This summer, I completed an internship as a Tech Policy Intern in Washington D.C. 
     
- Here are the languages I speak:
- * English
- * Russian
- * Ukrainian
- * French
-   
  I relocated to the United States a year ago and currently reside in Pittsburgh :earth_americas: . 
 
  Here is the photo of Pittsburgh:
