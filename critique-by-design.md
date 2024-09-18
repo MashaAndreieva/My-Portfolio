@@ -30,6 +30,7 @@ I would include a text note summarizing trends and maybe giving more information
 
 Initially, I chose a bar chart for the visualization redesign. Each color represented a different geographic region, with different bars corresponding to various countries. The y-axis displayed the number of firearms exported. 
 
+![Initial Draft](Initialdraft.jpeg)
 
 ## Step four: Test the Solution
 
