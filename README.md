@@ -28,3 +28,5 @@ I'm currently seeking positions at consulting firms that specialize in providing
 - [Government Debt Visualization](dataviz.md)
 - [Government Debt Visualization - Part 3](dataviz3.md)
 
+# Portfolio
+- [Cumulative volume of US semiautomatic firearm exports, 2005–2022](critique-by-design.md)
