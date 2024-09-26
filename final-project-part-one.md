@@ -17,11 +17,15 @@ Over the past decade, both federal and state governments, including Pennsylvania
 
 Several factors contribute to the slower than anticipated rate of EV adoption in PA: 
 
--	Despite the decreasing costs of electric vehicles, the purchase price of EVs still remains higher than other conventional vehicles.
+-	Affordability
 
--	Potential buyers are reluctant to purchase EVs as they are aware of insufficient charging infrastructure.
+Despite the decreasing costs of electric vehicles, the purchase price of EVs still remains higher than other conventional vehicles.
 
--	There is a lack of Public Awareness about benefits brought by EVs.
+- Improper charging infrastructure
+ 
+ Potential buyers are reluctant to purchase EVs as they are aware of insufficient charging infrastructure.
+
+-	Lack of Public Awareness about the benefits brought by EVs
   
 
 My project aims to explore the differences in EV adoption rates and charging infrastructure development in rural and urban areas in PA. 
