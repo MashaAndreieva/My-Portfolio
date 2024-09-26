@@ -82,15 +82,22 @@ Sketch#2:
 
 # The data
 
-For this project, I plan to use data from official government source, such as U.S. Department of Energy's Alternative Fuels Data Center, Pennsylvania Department of Transportation, Pennsylvania Department of Environmental Protection, etc. I will use this information to create charts that will allow to compare the differences in EVs adoption rates in rural vs. urban areas in Pennsylvania. I might use some information from the US Census Bureau to provide some context for the comparisons. 
+For this project, I plan to use data from official government sources, such as U.S. Department of Energy's Alternative Fuels Data Center, Pennsylvania Department of Transportation, Pennsylvania Department of Environmental Protection, US Energy Information Administration, etc. I will use this information to create charts that will allow us to compare the differences in EV adoption rates in rural vs. urban areas in Pennsylvania. I might use some information from the US Census Bureau to provide some context for the comparisons. 
 
 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Name                                              | URL                                                  | Description |
+                               
+|Gasoline Fuel Consumption in Pennsylvania          | https://afdc.energy.gov/states/pa|                   |This data allows us to understand the current transportation energy use in   
+                                                                                                            Pennsylvania. It can also be helpful when calculating current greenhouse 
+                                                                                                            emissions produced by the transportation sector in the state. It can also be 
+                                                                                                            used to see trends over time which could be compared to EV adoption rates. 
+                                                                                                            This would help demonstrate the pace of transition. 
+|Electricity Sources and Vehicle Emissions          |https://afdc.energy.gov/vehicles/electric-emissions   | This data containing annual emissions per vehicle type (all-electric, plug-in 
+                                                                                                            hybrid, hybrid, and gasoline) allows for a direct impact comparison. It 
+                                                                                                            demonstrates the environmental benefits of EVs compared to other traditional 
+                                                                                                            gasoline vehicles.          
+|Pennsylvania Energy Consumption Estimates, 2022    |https://www.eia.gov/state/?sid=PA                     |Shows Pennsylvania's current energy landscape
 
 # Method and medium
 
