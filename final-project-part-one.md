@@ -75,6 +75,10 @@ Sketch#1:
 
 ![Story Arc](ElectricVehicleAdoptionRates1.jpeg)
 
+Sketch#2:
+
+![Story Arc](ElectricVehicleAdoptionRates.jpeg)
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
