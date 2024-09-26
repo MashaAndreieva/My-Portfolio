@@ -94,6 +94,9 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+
+For my final project, I plan to use Tableau to create a series of data visualizations. I will use raw data from publicly available datasets, for example, the U.S. Department of Energy's Alternative Fuels Data Center, Pennsylvania Department of Transportation, and Department of Environmental Protection, an official Pennsylvania Government Website.
+I will also use Shorthand to compile my Tableau visualizations into an engaging story that highlights the opportunities and potential impact of EV adoption in Pennsylvania. 
+ 
+
