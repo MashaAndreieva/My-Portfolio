@@ -87,18 +87,27 @@ For this project, I plan to use data from official government sources, such as U
 
 
                                                                                                                                
-Name#1: Gasoline Fuel Consumption in Pennsylvania         
+Name#1: Gasoline Fuel Consumption in Pennsylvania     
+
 URL#1: https://afdc.energy.gov/states/pa
+
 Description#1: This data allows us to understand the current transportation energy use in Pennsylvania. It can also be helpful when calculating current greenhouse emissions produced by the transportation sector in the state. It can also be used to see trends over time which could be compared to EV adoption rates. This would help demonstrate the pace of transition. 
 
+
 Name#2:Electricity Sources and Vehicle Emissions
+
 URL#2:https://afdc.energy.gov/vehicles/electric-emissions
+
 Description#2: This data containing annual emissions per vehicle type (all-electric, plug-in hybrid, hybrid, and gasoline) allows for a direct impact comparison. It demonstrates the environmental benefits of EVs compared to other traditional gasoline vehicles.
 
 
+
 Name#3: Pennsylvania Energy Consumption Estimates, 2022
-URL#3: https://www.eia.gov/state/?sid=PA                     
+
+URL#3: https://www.eia.gov/state/?sid=PA            
+
 Description#3: Shows Pennsylvania's current energy landscape
+
 
 # Method and medium
 
