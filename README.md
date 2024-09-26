@@ -30,3 +30,6 @@ I'm currently seeking positions at consulting firms that specialize in providing
 
 # Portfolio
 - [Cumulative volume of US semiautomatic firearm exports, 2005–2022](critique-by-design.md)
+
+# Portfolio
+- [Final Project Part One](final-project-part-one.md)
