@@ -65,7 +65,7 @@ Call to Action
 -	For policymakers: policy proposals and funding 
 -	For the general public: Considering EV options
 
-- [Story Arc](Story Arc.jpeg)
+![Story Arc](Story Arc.jpeg)
 
 
 ## Initial sketches
