@@ -81,11 +81,10 @@ Sketch#2:
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+For this project, I plan to use data from official government source, such as U.S. Department of Energy's Alternative Fuels Data Center, Pennsylvania Department of Transportation, Pennsylvania Department of Environmental Protection, etc. I will use this information to create charts that will allow to compare the differences in EVs adoption rates in rural vs. urban areas in Pennsylvania. I might use some information from the US Census Bureau to provide some context for the comparisons. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+
 
 | Name | URL | Description |
 |------|-----|-------------|
