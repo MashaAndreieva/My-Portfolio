@@ -65,9 +65,12 @@ Call to Action
 -	For policymakers: policy proposals and funding 
 -	For the general public: Considering EV options
 
+- [Story Arc](Story Arc.jpeg)
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+
 
 
 
