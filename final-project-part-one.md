@@ -63,8 +63,8 @@ Policy recommendations
 
 Call to Action
 
--	For policymakers: policy proposals and funding 
--	For the general public: Considering EV options
+-	For policymakers: policy proposals and funding.
+-	For the general public: considering EV options.
 
 ![Story Arc](StoryArc.jpeg)
 
