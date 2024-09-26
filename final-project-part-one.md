@@ -106,7 +106,7 @@ Name#3: Pennsylvania Energy Consumption Estimates, 2022
 
 URL#3: https://www.eia.gov/state/?sid=PA            
 
-Description#3: Shows Pennsylvania's current energy landscape
+Description#3: Shows Pennsylvania's current energy landscape.
 
 
 # Method and medium
