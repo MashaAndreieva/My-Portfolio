@@ -1,7 +1,7 @@
 | [home page](https://mashaandreieva.github.io/My-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Shorthand (work in progress): https://carnegiemellon.shorthandstories.com/13d34e78-2b62-48e2-848d-1c2be20c485b/index.html wpo
+> Shorthand (work in progress): https://carnegiemellon.shorthandstories.com/13d34e78-2b62-48e2-848d-1c2be20c485b/index.html 
 ## The Untold Story of Food Insecurity Among College Students 
 ## From National Trends to Pennsylvania-Based Solutions
 
