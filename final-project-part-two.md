@@ -31,7 +31,6 @@ Food Security Levels by University PA
 ![Food Security Levels by University PA](FoodSecurityLevelsbyUniversityPA.png) 
 
 Challenges Faced by Food Insecure Students
-IMAGE
 ![Challenges Faced by Food Insecure Students](ChallengesFacedbyFoodInsecureStudents.png)
 
 Percentage of Food Insecure Students in Each GPA Range
