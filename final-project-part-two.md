@@ -48,8 +48,7 @@ Two main reasons why students would not use the food pantry are:
 -	Stigma associated with using pantry
 
 
-Public Assistance Programs Used by Food Insecure Students
-IMAGE
+![Percentage of Food Insecure Students in Each GPA Range.png](PublicAssistanceProgramsUsedbyFoodInsecureStudents.png)
 
 ## Proposed Solutions
 The majority of students who participated in the survey reported having enough food to eat in terms of quantity but not quality.
