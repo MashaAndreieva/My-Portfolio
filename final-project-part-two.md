@@ -27,14 +27,15 @@ This level of food insecurity is more than double the rate for US adults, 12%.
 
 ## Tuition or Dinner?
 
-Food Security Levels by University PA
+
 ![Food Security Levels by University PA](FoodSecurityLevelsbyUniversityPA.png) 
 
-Challenges Faced by Food Insecure Students
+
 ![Challenges Faced by Food Insecure Students](ChallengesFacedbyFoodInsecureStudents.png)
 
-Percentage of Food Insecure Students in Each GPA Range
+
 ![Percentage of Food Insecure Students in Each GPA Range.png](PercentageofFoodInsecureStudentsinEachGPARange.png)
+
 
 This leads to a discussion of the issue of understanding food pantries and other food assistance programs available for students.
 Students experiencing food insecurity often lack awareness about available food resources.
