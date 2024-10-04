@@ -65,51 +65,74 @@ University food pantries should also work to increase awareness about their miss
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My story targets following stakeholders:
+
+- Universities
+By presenting data on academic impact, I will highlight how food insecurity affects student performance, retention rates, and mental health.
+
+I will also share examples of successful case studies of other universities (within or outside Pennsylvania) that have successfully implemented food pantries or other meal-share programs. 
+
+- Students
+I will make sure my story offers practical solutions for students by increasing awareness around access to food pantries or other food assistance programs.
+
+- State and Local Policymakers in PA
+
+I will emphasize the long-term benefits of reducing food insecurity, such as improving graduation rates and future economic contributions from successful students. In other words, I will appeal to policymakers with a focus on economic development and social equity.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+Interview#1:
 
 
-Text here!
+Question#1:
+What is your initial reaction to the story about food insecurity among college students?
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+Answer#1: "It is an urgent issue and I know several people who mention that they find it hard to find resources to get more information about help available for students struggling with getting access to food. I know you mentioned couple barriers for students to get this kind of information, such as stigma and lack of knowledge about the related programs. Something tells me there are more barriers, maybe it will be helpful to go to the pantry or do a small survey asking students to talk more about other barriers."
 
-Text here!
+Question#2:
+What suggestions do you have for improving the story to better reach my stakeholders?
+Answer#2: "Include more examples of other universities implementing food assistance programs successfully, maybe include pre and post-implementation statistics? "
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+Question#3: What do you think about the design and charts in general?
+Answer#3: "Current charts are doing a great job explaining the extent of the problem in the country. Perhaps by showing more data related to the impact of food pantries and other food assistance programs would be more helpful when persuading stakeholders to take action".
+
+Question#4: Is there anything unclear from the story?
+Answer#4: "Everything is clear. I think as a CMU student, I'd be curious to see data for CMU specifically"
+
+Interview#2:
+
+Question#1: Do you think the story should appeal more to the emotions of the audience, or should it be more data-driven?
+Answer#1: "I think what you have right now is a good mix of both. I think two elements are important."
+The goal of the question: to determine the right balance between emotional storytelling and data-driven arguments.
+
+Question#2: Do you think this story is convincing enough to motivate universities and policymakers to take action? 
+Answer#2: "Yes, because it shows a clear picture of how food insecurity affects student success, which is something universities care about."
+The goal of the question: to assess whether the story is compelling and action-oriented enough to convince people to take an action.
+
+Question#3:  What do you think about the design and charts in general?
+Answer#3: "One of the charts have a different style compared to the rest of them. Maybe it will look better if all charts have the same design."
+The goal of the question: to understand if my charts are easy to understand and impactful enough.
+
+Interview#3:
+
+Question#1: What tone do you think would be most effective for reaching your target audience?
+Answer#1: "It depends on the audience I guess. I think for policy-makers a more data-driven approach is better since they are interested in numbers showing real impact. For universities and students, I think a more empathetic tone is better since they are more in touch with students."
+
+Question#2: Is there any other information you would include in your story?
+Answer#2: "Maybe include some links to food assistance programs (for students). I think you could also include some successful case studies, for example showing an improved student performance after initiatives helping struggling students, such as food pantries."
+The goal of the question: to identify information gaps if any.
+
+Question#3: Do you think food insecurity among students is an overlooked issue?
+Answer#3: "I do not think it is an overlooked issue but I think there could be more efforts done in terms of increasing awareness about available food assistance programs. When I just started at CMU, I received a couple of emails about the food pantry however I have not seen them in a while and it's been more than a year."
+
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+- Include more successful case studies of food pantries and other food assistance programs
+- Speak with the CMU pantry and include findings in my story
+- Add more charts showing impact of food assistance programs and policies
 
 
