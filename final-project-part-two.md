@@ -32,7 +32,7 @@ IMAGE
 
 Challenges Faced by Food Insecure Students
 IMAGE
-Challenges Faced by Food Insecure Students.png
+![Challenges Faced by Food Insecure Students](Challenges Faced by Food Insecure Students.png)
 
 Percentage of Food Insecure Students in Each GPA Range
 IMAGE
