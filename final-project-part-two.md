@@ -4,9 +4,10 @@
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 ## The Untold Story of Food Insecurity Among College Students 
-From National Trends to Pennsylvania-Based Solutions
+## From National Trends to Pennsylvania-Based Solutions
 
 Understanding the Crisis
+
 According to the United States Department of Agriculture, Food Insecurity is defined as a lack of access to enough food needed for an active healthy lifestyle. Food insecurity is considered to be one of the main critical public health issues as it oftentimes leads to a number of negative health and social outcomes.
 
 Serious disparities that exist in our own communities are not always visible, but hunger exists in every state and every county in the USA. It could affect our neighbors, classmates, and others around us.
@@ -17,21 +18,25 @@ Among those facing food insecurity, 8.4% (11.2 million households) experience lo
 
 Households with incomes below the poverty line and single-mother households have the highest rates of food insecurity.
 
-In Pennsylvania, 1,538,100 people are facing hunger, including 436,250 children. This means:
-
-1 in 8 people face hunger
-1 in 6 children face hunger
-
-This level of food insecurity is more than double the rate for US adults, 12%.
-
 
 ## Tuition or Dinner?
 
 
 ![Food Security Levels by University PA](FoodSecurityLevelsbyUniversityPA.png) 
 
+In Pennsylvania, 1,538,100 people are facing hunger, including 436,250 children. 
+
+This means:
+
+1 in 8 people face hunger
+1 in 6 children face hunger
+
+This level of food insecurity is more than double the rate for US adults, 12%.
 
 ![Challenges Faced by Food Insecure Students](ChallengesFacedbyFoodInsecureStudents.png)
+
+44% of food-insecure students completed their undergraduate degrees 
+ 68% of their food-secure counterparts 
 
 
 ![Percentage of Food Insecure Students in Each GPA Range.png](PercentageofFoodInsecureStudentsinEachGPARange.png)
