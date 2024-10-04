@@ -33,3 +33,4 @@ I'm currently seeking positions at consulting firms that specialize in providing
 
 # Portfolio
 - [Final Project Part One](final-project-part-one.md)
+- [Final Project Part Two](final-project-part-two.md)
