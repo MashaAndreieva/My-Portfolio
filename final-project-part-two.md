@@ -46,8 +46,11 @@ This level of food insecurity is more than double the rate for US adults, 12%.
 
 This leads to a discussion of the issue of understanding food pantries and other food assistance programs available for students.
 Students experiencing food insecurity often lack awareness about available food resources.
+
 Only 30% of students knew where to find a local food pantry. 
+
 Only 31% of students visited one.
+
 75% said they would use a food pantry if one was available.
 
 Two main reasons why students would not use the food pantry are:
