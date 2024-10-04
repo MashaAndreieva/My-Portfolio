@@ -28,7 +28,7 @@ This level of food insecurity is more than double the rate for US adults, 12%.
 ## Tuition or Dinner?
 
 Food Security Levels by University PA
-IMAGE
+![Food Security Levels by University PA](FoodSecurityLevelsbyUniversityPA.png) 
 
 Challenges Faced by Food Insecure Students
 IMAGE
