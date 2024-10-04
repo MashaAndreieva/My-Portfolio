@@ -29,6 +29,7 @@ In Pennsylvania, 1,538,100 people are facing hunger, including 436,250 children.
 This means:
 
 1 in 8 people face hunger
+
 1 in 6 children face hunger
 
 This level of food insecurity is more than double the rate for US adults, 12%.
