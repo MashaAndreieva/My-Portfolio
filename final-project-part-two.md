@@ -37,7 +37,8 @@ This level of food insecurity is more than double the rate for US adults, 12%.
 ![Challenges Faced by Food Insecure Students](ChallengesFacedbyFoodInsecureStudents.png)
 
 44% of food-insecure students completed their undergraduate degrees 
- 68% of their food-secure counterparts 
+
+68% of their food-secure counterparts 
 
 
 ![Percentage of Food Insecure Students in Each GPA Range.png](PercentageofFoodInsecureStudentsinEachGPARange.png)
