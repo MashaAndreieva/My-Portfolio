@@ -46,6 +46,5 @@ I created a map of the USA using Tableau to show varying levels of food insecuri
 Included references on my Shorthand story.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+To add to my reflections, I found that there wasn’t enough data specifically for Pennsylvania, so sometimes I had to rely on broader country-wide data. I was particularly excited about conducting interviews because all the participants were students who could relate to my story and offer valuable perspectives. If I had the chance to revisit the project, I would focus more on gathering local data. If I had more time I would also explore partnerships with local organizations to get more specific insights into the Pennsylvania/Pittsburgh area. Additionally, even though I know it is challenging to establish a direct correlation, I would have liked to spend more time analyzing the long-term effects of food assistance programs and their impact not only on students' academic performance but also on their mental and physical health. I think that by including data on how food assistance programs and food pantries actually help, it would be easier to convince my target audience to take action. 
