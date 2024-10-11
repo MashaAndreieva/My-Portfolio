@@ -1,9 +1,9 @@
 | [home page](https://mashaandreieva.github.io/My-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+Shorthand link: https://carnegiemellon.shorthandstories.com/13d34e78-2b62-48e2-848d-1c2be20c485b/index.html
+
 
 # Changes made since Part II
 
