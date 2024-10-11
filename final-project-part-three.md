@@ -8,16 +8,26 @@ Text here!
 # Changes made since Part II
 
 As I was heading to my part-time job interview near Residence on Fifth, I passed a food pantry which reminded me of a personal experience I had there. It made me realize that addressing food insecurity on college campuses would resonate more with me and the audience for my presentation in class. 
+
 In Part 1 my original topic was “Electric Vehicle Adoption Rates and Charging Infrastructure Development in Rural vs. Urban Areas in Pennsylvania”. However I decided to switch to “Food Insecurity Among College Students” because it allowed me to improve the narrative flow between sections and create a cohesive story.
+
 Here is how the narrative unfolds: 
+
 1 - General Overview of Food Insecurity in the USA: Introduces the broad situation and defines food insecurity.
+
 2 - Food Insecurity Among College Students in the USA: narrows down to the student population, showing statistics and trends.
-3 – Focus on Pennsylvania, specifically the Pittsburgh area
+
+3 – Focus on Pennsylvania, specifically the Pittsburgh area.
+
 4 - Impact on Academic Performance: highlights the correlation between food insecurity and student academic achievements.
+
 5 - Overview of Public Assistance Programs: addresses the fact that although millions of students are eligible for food assistance benefits, fewer than half apply. The reasons for this include: lack of awareness and complex application processes for food assistance. 
+
 6 - Call to action for State Agencies, Universities and Students. 
+
 I also mentioned successful examples from other universities, such as collaborations with tech non-profits like San Francisco & Marin Food Bank and Code for America NGO. Additionally, I have included data sources to support my findings. 
 Through interviews with CMU pantry users and students, many highlighted that while they appreciate the pantry’s existence, they’d benefit more from having fresher, higher-quality food.  Currently even the fresh produce is not very fresh. 
+
 Moreover, many students, especially international ones, are unaware of the food pantry’s services, which once again highlights the need to raise awareness which is one of my key calls to action.
 
 ## The audience
