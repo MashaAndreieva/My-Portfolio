@@ -7,9 +7,9 @@ Text here!
 
 # Changes made since Part II
 
-As I was heading to my part-time job interview near Residence on Fifth, I passed a food pantry which reminded me of a personal experience I had there. It made me realize that addressing food insecurity on college campuses would resonate more with me and the audience for my presentation in class. 
+As I was heading to my part-time job interview near Residence on Fifth, I passed a food pantry which reminded me of a personal experience I had there. It made me realize that addressing food insecurity on college campuses would resonate more with me and the audience for my presentation in class, which is the reason why I changed my topic (my original topic was “Electric Vehicle Adoption Rates and Charging Infrastructure Development in Rural vs. Urban Areas in Pennsylvania). 
 
-In Part 1 my original topic was “Electric Vehicle Adoption Rates and Charging Infrastructure Development in Rural vs. Urban Areas in Pennsylvania”. However I decided to switch to “Food Insecurity Among College Students” because it allowed me to improve the narrative flow between sections and create a cohesive story.
+In Part 3 I improved the narrative flow between sections and created a cohesive story.
 
 Here is how the narrative unfolds: 
 
