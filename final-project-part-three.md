@@ -2,7 +2,7 @@
 
 # The final data story
 
-Shorthand link: https://carnegiemellon.shorthandstories.com/13d34e78-2b62-48e2-848d-1c2be20c485b/index.html 
+Shorthand link: https://carnegiemellon.shorthandstories.com/13d34e78-2b62-48e2-848d-1c2be20c485b/index.html
 
 
 # Changes made since Part II
